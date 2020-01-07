@@ -2,3 +2,5 @@ IDCli,Fecha,SKU,Cant,Precio,SubTotal
 1,2020-01-07,555,3,10,30
 3,
 4, 
+
+6,1992-03-14,525,5,3,15
